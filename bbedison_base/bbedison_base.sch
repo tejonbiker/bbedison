@@ -864,6 +864,13 @@
 <sheets>
 <sheet>
 <plain>
+<text x="2.54" y="-7.62" size="1.778" layer="94">Origin of the files:
+https://github.com/tejonbiker/bbedison
+
+Follow US:
+Federico Ramos  @tejonbiker          https://tejonbiker.wordpress.com/acerca-de-mi/
+Xhabas Jimenez  @Sabasacustico   http://blog.theinventorhouse.org/
+</text>
 </plain>
 <instances>
 <instance part="JP1920" gate="A" x="17.78" y="55.88" rot="R180"/>
@@ -1429,4 +1436,10 @@
 </sheets>
 </schematic>
 </drawing>
+<compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
+</compatibility>
 </eagle>
