@@ -16,7 +16,7 @@ The mini breakout is not [breadboard](https://cdn.sparkfun.com//assets/parts/1/0
       -Serial and OTG connections
       -Power Up sequence management
 
-BBedison is a series of PCB that allows (in conjunction with Edison minibreakout ) prototipe in a more friendly way.
+BBedison is a series of PCB that allows (in conjunction with Edison minibreakout ) prototype in a more friendly way.
 
 The best of all:
 
