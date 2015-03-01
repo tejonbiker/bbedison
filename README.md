@@ -1,5 +1,4 @@
 # bbedison
-Breakout friendly for breadboard of mini breakout for Intel Edison
 
 The concept of the Intel Edison is great, but require skills (some skills are very advanced) to start working with this tiny invention.
 
