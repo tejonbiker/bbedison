@@ -4,7 +4,7 @@ The concept of the Intel Edison is great, but require skills (some skills are ve
 
 The concept of  [Sparkfun Blocks](https://www.sparkfun.com/search/results?term=sparkfun+blocks) is great, but lack the access to all the pins of the Edison (else you will require several blocks).
 
-The Arduino board is a great way to start with intel edison, but is to big and breaks the escence of the edison, besides that, this board don't have access to all pins of the Edison.
+The Arduino board is a great way to start with Intel Edison, but is to big and breaks the esscence of the edison, besides that, this board don't have access to all the pins of the Edison.
 
 So, is necesary to build a very expensive PCB (with very small traces and very [small connector](http://www.adafruit.com/product/2227)) to do an advanced prototype of the Intel Edison? 
 
@@ -16,7 +16,7 @@ The mini breakout is not [breadboard](https://cdn.sparkfun.com//assets/parts/1/0
       -Serial and OTG connections
       -Power Up sequence management
 
-BBedison is a series of PCB that allows (in conjunction with Edison minibreakout ) prototype in a more friendly way.
+BBedison is a series of PCBs that allows you (in conjunction with Edison minibreakout ) prototype in a more friendly way.
 
 The best of all:
 
@@ -24,7 +24,7 @@ The best of all:
       -It's very easy to do it in your home
       
 
-Eager to start experimenting? check it out the  BBEdison base.
+Eager to start experimenting? check it out the  BBEdison_base.
 
 Authors:
 
