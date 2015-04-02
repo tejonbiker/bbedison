@@ -26,6 +26,10 @@ The best of all:
 
 Eager to start experimenting? check it out the  BBEdison_base.
 
+Links of interest:
+Instructable of BBEdison_base:  http://www.instructables.com/id/Plug-your-Intel-Edison-in-a-breadboard/
+Hackaday post:  http://hackaday.com/2015/04/01/a-stack-of-boards-for-an-edison-breadboard-adapter/
+
 Authors:
 
 **Federico Ramos**
